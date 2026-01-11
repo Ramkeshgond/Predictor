@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -89,16 +90,16 @@
       }
 
       const predictions = [
-        "Tumhara kuch nhee ho shakta Mere Dost ,
-        "Bhadwe muh uthaa ke kyo chal aate ho",
-        "Ak kaam kro B-tech karna chhod de Tuhara iss field me kuch nhee ho shakta",
-        "Tumhara Future to door door dikhai nhee de rhaa 🌱",
-        "Mai kya btaawoo tumhara future dikh hee nhee rhaa ⏳",
-        "Ladki aur Paise  ke alwa sab kuch hoga tumhari jindegi me 🤝",
-        "Future to kuch nhee dikh rhaa per agar laundiyabazi band kar de to saayed dikh jaaye 🎯"
+        "Tumhara kuch nhee ho shakta mere dost 😌",
+        "Bhadwe muh uthaa ke kyo chal aate ho 🤦‍♂️",
+        "Ek kaam kro B-Tech karna chhod do, tumhara iss field me kuch nhee ho shakta 😭",
+        "Tumhara future to door-door tak dikhai nhee de rhaa 🌱",
+        "Mai kya btaawoo, tumhara future dikh hi nhee rhaa ⏳",
+        "Ladki aur paise ke alawa sab kuch hoga tumhari zindagi me 🤝",
+        "Future to kuch nhee dikh rhaa, par agar laundiyabazi band kar do to shayad dikh jaaye 🎯"
       ];
 
-      
+      // Simple deterministic hash using name + date
       let hash = 0;
       const input = name + date;
       for (let i = 0; i < input.length; i++) {
