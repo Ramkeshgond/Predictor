@@ -89,13 +89,13 @@
       }
 
       const predictions = [
-        "A great opportunity is coming your way 🚀",
-        "Hard work will soon pay off 💪",
-        "You will learn something important 📘",
-        "A positive change is near 🌱",
-        "Success will come with patience ⏳",
-        "New connections will help you grow 🤝",
-        "Focus and consistency will bring results 🎯"
+        "Tumhara kuch nhee ho shakta Mere Dost ,
+        "Bhadwe muh uthaa ke kyo chal aate ho",
+        "Ak kaam kro B-tech karna chhod do Tuhara iss field me kuch nhee ho shakta",
+        "Tumhara Future to door door dikhai nhee de rhaa 🌱",
+        "Mai kya btaawoo tumhara future dikh hee nhee rhaa ⏳",
+        "Ladki aur Paise  ke alwa sab kuch hoga tumhari jindegi me 🤝",
+        "Future to kuch nhee dikh rhaa per agar laundiyabazi band kar do to saayed dikh jaaye 🎯"
       ];
 
       // Simple deterministic hash using name + date
